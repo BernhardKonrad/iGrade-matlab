@@ -1,0 +1,3 @@
+Name: firstname2 lastname2
+Student id: 987654321
+Group: Monday

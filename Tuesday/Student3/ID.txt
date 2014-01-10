@@ -1,0 +1,3 @@
+Name: firstname3 lastname3
+Student id: 123456789
+Group: Tuesday
